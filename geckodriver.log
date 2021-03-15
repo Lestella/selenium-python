@@ -1,0 +1,4 @@
+1615834629214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1j/qpqbh08n60q3qxbgz23zhg080000gp/T/rust_mozprofilesDIcg5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615834641027	Marionette	INFO	Listening on port 56936
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
